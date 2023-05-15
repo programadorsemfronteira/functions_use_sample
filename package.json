@@ -1,0 +1,24 @@
+{
+  "name": "functions_use_sample",
+  "version": "1.0.0",
+  "description": "How functions can be used for code reuse",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/programadorsemfronteira/functions_use_sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/programadorsemfronteira/functions_use_sample/issues"
+  },
+  "homepage": "https://github.com/programadorsemfronteira/functions_use_sample#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
