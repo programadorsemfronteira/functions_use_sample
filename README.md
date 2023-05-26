@@ -1,7 +1,9 @@
 # Functions use sample
 This is a sample showing how a function can be used to reuse a piece of code.
 
-_**NOTE: It's just for educational purpose, not a real world application and it doesn't necessary follow all the best development praticies**_
+_**NOTE: It's just for educational purpose, not a real world application and it doesn't necessary follow all the best development praticies.**_
+
+It's the result of an article explaing programming logic, in portuguese - *[O que é lógica de programação afinal?](https://programadorsemfronteira.github.io/2023/05/13/o-que-e-logica-de-programacao-afinal.html)*
 
 ### Running
  - Clone this repository `git clone git@github.com:programadorsemfronteira/functions_use_sample.git`; 
